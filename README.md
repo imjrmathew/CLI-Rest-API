@@ -1,4 +1,4 @@
-# CLI-Rest-API
+# CLI-Rest-API :point_down:
 A simple CLI Rest-API, developed by using Flask :+1:
 
 ## Initial Setup,
