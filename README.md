@@ -11,15 +11,15 @@ A simple CLI Rest-API, developed by using Flask :+1:
 
         virtualenv venv
         
-- After creating the virtual env, activate the environment by using the cmd.
+- After creating a virtual env, activate the environment by using the cmd.
 
         venv\Scripts\activate
         
-- Next, we need to install some dependencies, to do that in cmd, type:
+- Next, we need to install some dependencies, to do that in the cmd, type:
 
         pip install -e .
         
-- **[OPTIONAL]** If the above code shows an error, then we must install an dditional package, so:
+- **[OPTIONAL]** If the above code shows an error, then we must install an additional package, so to do that:
 
         pip install setuptools
         
