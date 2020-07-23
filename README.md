@@ -40,14 +40,14 @@ Inorder to run the project, we need to open 2 cmd's in the same location, and ac
         runclient --help
         runclient --port <port_number> --path <location_to_display>
        
-  - E.g:,
-       **runserver**
+  - **E.g:,**
+   - **runserver**
         
-        ![](images/runserver.PNG)
+![](images/runserver.PNG)
         
-       **runclient**
+   - **runclient**
        
-        ![](images/runclient.PNG)
+![](images/runclient.PNG)
   
 - After this, we can open the web browser and type,
     
