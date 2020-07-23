@@ -43,11 +43,11 @@ Inorder to run the project, we need to open 2 cmd's in the same location, and ac
   - E.g:,
        **runserver**
         
-        ![runclient](https://user-images.githubusercontent.com/55572183/88342307-c8eecd00-cd5c-11ea-948d-8005b0baddfb.PNG)
+        ![](images/runserver.PNG)
         
        **runclient**
        
-        ![runclient](https://user-images.githubusercontent.com/55572183/88342307-c8eecd00-cd5c-11ea-948d-8005b0baddfb.PNG)
+        ![](images/runclient.PNG)
   
 - After this, we can open the web browser and type,
     
