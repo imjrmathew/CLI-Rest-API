@@ -1,4 +1,4 @@
-# CLI-Rest-API :point_down:
+# CLI-Rest-API :octocat:
 A simple CLI Rest-API, developed by using Flask :+1:
 
 ## Initial Setup,
