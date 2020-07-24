@@ -4,7 +4,7 @@ A simple CLI Rest-API, developed by using Flask :+1:
 ## Initial Setup,
 - Firstly, clone the project into your directory.
 
-        git commit https://github.com/iamdonmathew/CLI-Rest-API.git
+        git clone https://github.com/iamdonmathew/CLI-Rest-API.git
         
 - Then, open cmd from the project location.
 - Create a virtual environment.
