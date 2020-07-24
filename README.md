@@ -31,14 +31,16 @@ Inorder to run the project, we need to open 2 cmd's in the same location, and ac
 - Then,
   - Initialy, we need to run the server, to do that, on the cmd, type:
         
-        runserver --help
         runserver --port <port_number>
+                or
+        runserver --help
         
   - This will run the server on the specified port number
   - Then, we need to run the client, to do that, on the next cmd, type:
   
+        runclient
+                or
         runclient --help
-        runclient --port <port_number> --path <location_to_display>
        
 - **E.g:,**
 - **runserver**
