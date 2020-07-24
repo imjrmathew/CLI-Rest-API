@@ -11,8 +11,8 @@ from server import run
 
 # Click package is used to turn the python script into CLI.
 @click.command()
-@click.option('--path', help='Specify the path, that you want to display', required=True)
-@click.option('--port', help='Specify the PORT number, that you already used to start server', required=True)
+@click.option('--path',prompt="Enter the path", help='Specify the path, that you want to display', required=True)
+@click.option('--port',prompt="Enter the PORT number that is used to start the server", help='Specify the PORT number, that you already used to start server', required=True)
 
 # The value of @click.option (path and port) is passed to the function getfiles.
 def getfiles(path, port):
