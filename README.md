@@ -1,25 +1,25 @@
-# CLI-Rest-API
+# CLI-Rest-API :octocat:
 A simple CLI Rest-API, developed by using Flask :+1:
 
 ## Initial Setup,
 - Firstly, clone the project into your directory.
 
-        git commit https://github.com/iamdonmathew/CLI-Rest-API.git
+        git clone https://github.com/iamdonmathew/CLI-Rest-API.git
         
 - Then, open cmd from the project location.
 - Create a virtual environment.
 
         virtualenv venv
         
-- After creating the virtual env, activate the environment by using the cmd.
+- After creating a virtual env, activate the environment by using the cmd.
 
         venv\Scripts\activate
         
-- Next, we need to install some dependencies, to do that in cmd, type:
+- Next, we need to install some dependencies, to do that in the cmd, type:
 
         pip install -e .
         
-- **[OPTIONAL]** If the above code shows an error, then we must install an dditional package, so:
+- **[OPTIONAL]** If the above code shows an error, then we must install an additional package, so to do that:
 
         pip install setuptools
         
@@ -40,14 +40,14 @@ Inorder to run the project, we need to open 2 cmd's in the same location, and ac
         runclient --help
         runclient --port <port_number> --path <location_to_display>
        
-  - E.g:,
-       **runserver**
+- **E.g:,**
+- **runserver**
         
-        ![runclient](https://user-images.githubusercontent.com/55572183/88342307-c8eecd00-cd5c-11ea-948d-8005b0baddfb.PNG)
+![](images/runserver.PNG)
         
-       **runclient**
+- **runclient**
        
-        ![runclient](https://user-images.githubusercontent.com/55572183/88342307-c8eecd00-cd5c-11ea-948d-8005b0baddfb.PNG)
+![](images/runclient.PNG)
   
 - After this, we can open the web browser and type,
     
